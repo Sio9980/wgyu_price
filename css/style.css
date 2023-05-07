@@ -62,3 +62,7 @@ footer {
 .card {
   border-radius: 0;
 }
+
+.btn_blue {
+  background-color: #17a2b8;
+}
